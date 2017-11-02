@@ -26,3 +26,40 @@ header {
     background-repeat: no-repeat;
     
 }
+
+.section2 {
+    height: 502px;
+}
+
+.section3 {
+    height: 1080px;
+    background-color: #66cddf;
+}
+
+.section4 {
+    height: 1080px;
+}
+
+.section5 {
+    height: 1080px;
+    background-color: #66cddf;
+}
+
+.section6 {
+    height: 1080px;
+}
+
+.section7 {
+    height: 978px;
+    background-color: #d3d2d0;
+}
+
+.section8 {
+    height: 960px;
+    background-color: #222533;
+}
+
+.footer {
+    height: 120px;
+    background-color: #1a1c27;
+}
