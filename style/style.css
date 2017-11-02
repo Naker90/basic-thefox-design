@@ -1,0 +1,28 @@
+header {
+    padding: 20px 0px;
+}
+
+.wrapper {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.link-menu {
+    height: 110px;
+    text-decoration: none;
+    color: #222533;
+    font-weight: bold;
+    margin: auto 30px;
+}
+
+.link-menu:active {
+    color: #04bfbf;
+}
+
+.section1 {
+    height: 979px;
+    background: url("../images/backgound.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    
+}
