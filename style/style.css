@@ -12,7 +12,7 @@ header {
     text-decoration: none;
     color: #222533;
     font-weight: bold;
-    margin: auto 30px;
+    margin: auto 20px;
 }
 
 .link-menu:active {
@@ -21,10 +21,41 @@ header {
 
 .section1 {
     height: 979px;
-    background: url("../images/backgound.jpg");
-    background-size: auto;
-    background-repeat: no-repeat;
-    
+    background: url("../images/prueba.png");
+    background-size: cover;
+}
+
+.section1 h1 {
+    color: white;
+    font-size: 5em;
+    margin: 0;
+    padding-top: 300px;
+}
+
+.section1 span {
+    color: #56c0d3
+}
+
+.section1 p {
+    font-size: 2em;
+    color: white;
+    margin-top: 0;
+}
+
+#btn-purchase {
+    width: 219px;
+    height: 59px;
+    font-weight: bold;
+}
+
+#btn-freatures {
+    width: 219px;
+    height: 59px;
+    color: white;
+    font-weight: bold;
+    background-color: transparent;
+    border-color: white;
+    margin-left: 15px;
 }
 
 .section2 {
