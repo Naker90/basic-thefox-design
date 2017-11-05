@@ -7,6 +7,10 @@ header {
     margin: 0 auto;
 }
 
+.wrapper-inline {
+    display: inline-block;
+}
+
 .link-menu {
     height: 110px;
     text-decoration: none;
@@ -74,6 +78,7 @@ header {
     text-align: center;
     color: #29d9c2;
     margin-top: 10px;
+    font-weight: normal;
 }
 
 .section2 p {
@@ -87,6 +92,41 @@ header {
 .section3 {
     height: 1080px;
     background-color: #66cddf;
+}
+
+.section3 h2 {
+    color: white;
+    font-size: 4em;
+    margin: 0;
+    padding-top: 350px;
+}
+
+.section3 h3 {
+    color: white;
+    font-size: 1.5em;
+    margin: 0;
+    font-weight: normal;
+}
+
+.section3 p {
+    color: white;
+    width: 465px;
+    margin-top: 50px;
+}
+
+#btn-download {
+    width: 219px;
+    height: 59px;
+    color: white;
+    font-weight: bold;
+    background-color: #2f2933;
+    border-color: #2f2933;
+    margin-top: 10px;
+}
+
+.section3 img {
+    width: 510px;
+    height: 340px;
 }
 
 .section4 {
