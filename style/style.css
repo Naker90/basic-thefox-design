@@ -27,8 +27,16 @@ nav {
     height: 1080px;
 }
 
+.section h3, .section p {
+    color: #a1b1bc;
+}
+
 .section-blue {
     background-color: #66cddf;
+}
+
+.section-blue h2, .section-blue h3, .section-blue p {
+    color:  #ffffff;
 }
 
 .section-title {
@@ -37,6 +45,21 @@ nav {
     font-weight: 700;
     line-height: 100px;
     margin: 0;
+}
+
+.section-subtitle {
+    font-size: 24px;
+    line-height: 19px;
+    margin: 0;
+    font-weight: normal;
+}
+
+.section-text {
+    font-family: Lato, Arial, "Times New Roman";
+    font-size: 14px;
+    line-height: 24px;
+    width: 465px;
+    margin-top: 50px;
 }
 
 .menu {
@@ -63,6 +86,18 @@ nav {
     color: #04bfbf;
 }
 
+.blue-word {
+    color: #56c0d3
+}
+
+.white-word {
+    color: white;
+}
+
+.bold-word {
+    font-weight: bold;
+}
+
 #creative {
     height: 979px;
     background: url("../images/prueba.png");
@@ -77,18 +112,6 @@ nav {
     color: white;
     margin: 0;
     padding-top: 300px;
-}
-
-.blue-word {
-    color: #56c0d3
-}
-
-.white-word {
-    color: white;
-}
-
-.bold-word {
-    font-weight: bold;
 }
 
 #creative h2 {
@@ -170,27 +193,6 @@ nav {
     line-height: 40px;
 }
 
-#brand h2 {
-    color:  #ffffff;
-}
-
-#brand h3 {
-    color:  #ffffff;
-    font-size: 24px;
-    line-height: 19px;
-    margin: 0;
-    font-weight: normal;
-}
-
-#brand p {
-    font-family: Lato, Arial, "Times New Roman";
-    color:  #ffffff;
-    font-size: 14px;
-    line-height: 24px;
-    width: 465px;
-    margin-top: 50px;
-}
-
 .btn-black {
     color:  #ffffff;
     background-color: #2f2933;
@@ -201,34 +203,12 @@ nav {
     color: white;
 }
 
-#brand img {
-    width: 510px;
-    height: 340px;
-}
-
 #yosemite img {
     margin-right: 100px;
 }
 
 #yosemite h2 {
     margin-right: 200px;
-}
-
-#yosemite h3 {
-    color: #a1b1bc;
-    font-size: 24px;
-    line-height: 19px;
-    font-weight: normal;
-    margin: 0;
-}
-
-#yosemite p {
-    width: 460px;
-    font-family: Lato, Arial, "Times New Roman";
-    font-size: 14px;
-    line-height: 24px;
-    color: #a1b1bc;
-    margin-top: 50px;
 }
 
 .btn-blue {
@@ -241,56 +221,12 @@ nav {
     color: white;
 }
 
-
-#legend h2 {
-    color:  #ffffff;
-}
-
-#legend h3 {
-    color:  #ffffff;
-    font-size: 24px;
-    line-height: 19px;
-    margin: 0;
-    font-weight: normal;
-}
-
-#legend p {
-    font-family: Lato, Arial, "Times New Roman";
-    color:  #ffffff;
-    font-size: 14px;
-    line-height: 24px;
-    width: 465px;
-    margin-top: 50px;
-}
-
-#legend img {
-    width: 510px;
-    height: 340px;
-}
-
 #paper img {
     margin-right: 100px;
 }
 
 #paper h2 {
     margin-right: 200px;
-}
-
-#paper h3 {
-    color: #a1b1bc;
-    font-size: 24px;
-    line-height: 19px;
-    font-weight: normal;
-    margin: 0;
-}
-
-#paper p {
-    width: 460px;
-    font-family: Lato, Arial, "Times New Roman";
-    font-size: 14px;
-    line-height: 24px;
-    color: #a1b1bc;
-    margin-top: 50px;
 }
 
 .btn-white {
