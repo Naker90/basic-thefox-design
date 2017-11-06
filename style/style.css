@@ -47,19 +47,29 @@ header {
 }
 
 #btn-purchase {
-    width: 219px;
-    height: 59px;
+    padding: 18.5px 47px;
     font-weight: bold;
+    border: 1px solid white;
+    background-color: white;
+    text-decoration: none;
+}
+
+#btn-purchase:visited {
+    color: black;
 }
 
 #btn-freatures {
-    width: 219px;
-    height: 59px;
+    padding: 18.5px 47px;
     color: white;
     font-weight: bold;
     background-color: transparent;
-    border-color: white;
+    border: 1px solid white;
     margin-left: 15px;
+    text-decoration: none;
+}
+
+#btn-freatures:visited {
+    color: white;
 }
 
 #introducing {
@@ -115,13 +125,17 @@ header {
 }
 
 #btn-download {
-    width: 219px;
-    height: 59px;
+    padding: 18.5px 47px;
     color: white;
     font-weight: bold;
     background-color: #2f2933;
-    border-color: #2f2933;
-    margin-top: 10px;
+    border:1px solid #2f2933;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#btn-download:visited {
+    color: white;
 }
 
 #brand img {
@@ -158,12 +172,17 @@ header {
 }
 
 #btn-download2 {
-    width: 219px;
-    height: 59px;
+    padding: 18.5px 47px;
     color: white;
     background-color: #29d9c2;
     font-weight: bold;
-    border-color: #29d9c2;
+    border:1px solid #29d9c2;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#btn-download2:visited {
+    color: white;
 }
 
 #legend {
