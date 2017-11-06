@@ -17,12 +17,10 @@ nav {
     margin: 0 auto;
 }
 
-.wrapper-float-left {
+.col {
+    width: 585px;
     float: left;
-}
-
-.wrapper-float-right {
-    float: right;
+    padding-top: 350px;
 }
 
 .menu {
@@ -168,7 +166,6 @@ nav {
     font-weight: 700;
     line-height: 100px;
     margin: 0;
-    padding-top: 350px;
 }
 
 #brand h3 {
@@ -201,8 +198,6 @@ nav {
 #brand img {
     width: 510px;
     height: 340px;
-    margin-left: 100px;
-    margin-top: 350px;
 }
 
 #yosemite {
@@ -210,7 +205,6 @@ nav {
 }
 
 #yosemite img {
-    margin-top: 350px;
     margin-right: 100px;
 }
 
@@ -220,7 +214,6 @@ nav {
     font-weight: 700;
     line-height: 100px;
     margin: 0;
-    margin-top: 350px;
     margin-right: 200px;
 }
 
@@ -263,7 +256,6 @@ nav {
     font-weight: 700;
     line-height: 100px;
     margin: 0;
-    padding-top: 350px;
 }
 
 #legend h3 {
@@ -286,8 +278,6 @@ nav {
 #legend img {
     width: 510px;
     height: 340px;
-    margin-left: 100px;
-    margin-top: 350px;
 }
 
 #paper {
@@ -295,7 +285,6 @@ nav {
 }
 
 #paper img {
-    margin-top: 350px;
     margin-right: 100px;
 }
 
@@ -305,7 +294,6 @@ nav {
     font-weight: 700;
     line-height: 100px;
     margin: 0;
-    margin-top: 350px;
     margin-right: 200px;
 }
 
