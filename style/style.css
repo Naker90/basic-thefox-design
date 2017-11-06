@@ -1,5 +1,5 @@
 body {
-    font-family: "PlayFair Display";
+    font-family: "PlayFair Display", Arial, "Times New Roman";
 }
 
 header {
@@ -17,7 +17,7 @@ header {
 
 .link-menu {
     height: 110px;
-    font-family: Lato;
+    font-family: Lato, Arial, "Times New Roman";
     font-size: 13px;
     text-decoration: none;
     color: #222533;
@@ -36,7 +36,7 @@ header {
 }
 
 #creative h1 {
-    font-family: Raleway;
+    font-family: Raleway, Arial, "Times New Roman";
     font-size: 90px;
     font-weight: 800;
     line-height: 100px;
@@ -59,7 +59,7 @@ header {
 }
 
 .btn {
-    font-family: Raleway;
+    font-family: Raleway, Arial, "Times New Roman";
     font-size: 14px;
     padding: 18.5px 47px;
     font-weight: 700;
@@ -94,7 +94,7 @@ header {
 }
 
 #introducing h2 {
-    font-family: Raleway;
+    font-family: Raleway, Arial, "Times New Roman";
     font-size: 36px;
     font-weight: 700;
     line-height: 100px;
@@ -126,7 +126,7 @@ header {
 }
 
 #brand h2 {
-    font-family: Raleway;
+    font-family: Raleway, Arial, "Times New Roman";
     color:  #ffffff;
     font-size: 72px;
     font-weight: 700;
@@ -144,7 +144,7 @@ header {
 }
 
 #brand p {
-    font-family: Lato;
+    font-family: Lato, Arial, "Times New Roman";
     color:  #ffffff;
     font-size: 14px;
     line-height: 24px;
@@ -178,7 +178,7 @@ header {
 }
 
 #yosemite h2 {
-    font-family: Raleway;
+    font-family: Raleway, Arial, "Times New Roman";
     font-size: 72px;
     font-weight: 700;
     line-height: 100px;
@@ -194,9 +194,8 @@ header {
 
 #yosemite p {
     width: 460px;
-    font-family: Lato;
+    font-family: Lato, Arial, "Times New Roman";
     font-size: 14px;
-
     line-height: 24px;
     color: #a1b1bc;
     margin-top: 50px;
