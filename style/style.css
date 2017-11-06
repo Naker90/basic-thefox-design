@@ -65,8 +65,12 @@ nav {
     padding-top: 300px;
 }
 
-#creative span {
+.blue-word {
     color: #56c0d3
+}
+
+.white-word {
+    color: white;
 }
 
 #creative h2 {
@@ -349,6 +353,34 @@ nav {
 #the-fox {
     height: 960px;
     background-color: #222533;
+}
+
+#the-fox h2 {
+    font-family: Raleway, Arial, "Times New Roman";
+    color: white;
+    font-size: 88.97px;
+    line-height: 19px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 350px;
+    text-align: center;
+}
+
+#the-fox h3 {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    margin-top: 40px;
+    font-weight: normal;
+}
+
+#the-fox p {
+    font-family: Lato, Arial, "Times New Romes";
+    color: #a1b1bc;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 50px;
 }
 
 .footer {
