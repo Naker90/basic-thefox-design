@@ -27,6 +27,17 @@ nav {
     float: right;
 }
 
+nav ul {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+    margin-left: 10px;
+}
+
+nav ul li {
+    float: left;
+}
+
 .link-menu {
     height: 110px;
     font-family: Lato, Arial, "Times New Roman";
