@@ -78,6 +78,10 @@ nav {
     margin-top: 10px;
 }
 
+#creative a {
+    margin-top: 20px;
+}
+
 .btn {
     font-family: Raleway, Arial, "Times New Roman";
     font-size: 14px;
@@ -91,11 +95,10 @@ nav {
     border-radius: 5px;
 }
 
-.btn-purchase {
+.btn-generic {
     color:  #222533;
     border: 1px solid white;
     background-color: white;
-    margin-top: 20px;
 }
 
 .btn-purchase:visited {
@@ -328,6 +331,19 @@ nav {
 #love-fox {
     height: 978px;
     background-color: #d3d2d0;
+}
+
+#love-fox h2 {
+    text-align: center;
+    font-family: Raleway, Arial, "Times New Roman";
+    font-size: 90px;
+    padding-top: 380px;
+    margin: 0;
+}
+
+#love-fox a {
+    margin-left: 480px;
+    margin-top: 20px;
 }
 
 #the-fox {
