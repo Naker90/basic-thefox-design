@@ -40,10 +40,11 @@ header {
     color: #56c0d3
 }
 
-#creative p {
+#creative h2 {
     font-size: 2em;
     color: white;
     margin-top: 0;
+    font-weight: normal;
 }
 
 #btn-purchase {
