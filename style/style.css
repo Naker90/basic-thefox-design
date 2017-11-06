@@ -283,6 +283,48 @@ nav {
     height: 1080px;
 }
 
+#paper img {
+    margin-top: 350px;
+    margin-right: 100px;
+}
+
+#paper h2 {
+    font-family: Raleway, Arial, "Times New Roman";
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 100px;
+    margin: 0;
+    margin-top: 350px;
+    margin-right: 200px;
+}
+
+#paper h3 {
+    color: #a1b1bc;
+    font-size: 24px;
+    line-height: 19px;
+    font-weight: normal;
+    margin: 0;
+}
+
+#paper p {
+    width: 460px;
+    font-family: Lato, Arial, "Times New Roman";
+    font-size: 14px;
+    line-height: 24px;
+    color: #a1b1bc;
+    margin-top: 50px;
+}
+
+.btn-white {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.btn-white:visited {
+    color: black;
+}
+
 #love-fox {
     height: 978px;
     background-color: #d3d2d0;
