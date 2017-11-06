@@ -134,6 +134,39 @@ header {
     height: 1080px;
 }
 
+.section4 img {
+    margin-top: 350px;
+    margin-right: 100px;
+}
+
+.section4 h2 {
+    font-size: 4em;
+    margin: 0;
+}
+
+.section4 h3 {
+    color: #a1b1bc;
+    font-size: 1.5em;
+    margin: 0;
+    font-weight: normal;
+}
+
+.section4 p {
+    width: 460px;
+    height: 86px;
+    color: #a1b1bc;
+    margin-top: 50px;
+}
+
+#btn-download2 {
+    width: 219px;
+    height: 59px;
+    color: white;
+    background-color: #29d9c2;
+    font-weight: bold;
+    border-color: #29d9c2;
+}
+
 .section5 {
     height: 1080px;
     background-color: #66cddf;
