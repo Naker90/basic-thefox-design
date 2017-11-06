@@ -2,10 +2,6 @@ body {
     font-family: "PlayFair Display", Arial, "Times New Roman";
 }
 
-header {
-    padding: 20px 0px;
-}
-
 nav {
     position: fixed;
     top: 0;
@@ -29,19 +25,18 @@ nav {
     float: right;
 }
 
-nav ul {
+.menu {
     list-style-type: none;
     display: inline-block;
     padding: 0;
     margin-left: 10px;
 }
 
-nav ul li {
+.menu-item {
     float: left;
 }
 
-.link-menu {
-    height: 110px;
+.menu-link {
     font-family: Lato, Arial, "Times New Roman";
     font-size: 13px;
     text-decoration: none;
@@ -50,7 +45,7 @@ nav ul li {
     margin: auto 20px;
 }
 
-.link-menu:active {
+.menu-link:active {
     color: #04bfbf;
 }
 
@@ -182,13 +177,13 @@ nav ul li {
     margin-top: 50px;
 }
 
-.btn-download {
+.btn-black {
     color:  #ffffff;
     background-color: #2f2933;
     border:1px solid #2f2933;
 }
 
-.btn-download:visited {
+.btn-black:visited {
     color: white;
 }
 
@@ -235,13 +230,13 @@ nav ul li {
     margin-top: 50px;
 }
 
-.btn-download2 {
+.btn-blue {
     color: white;
     background-color: #29d9c2;
     border:1px solid #29d9c2;
 }
 
-.btn-download2:visited {
+.btn-blue:visited {
     color: white;
 }
 
