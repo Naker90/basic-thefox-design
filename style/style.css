@@ -154,8 +154,11 @@ nav {
     line-height: 40px;
 }
 
-#brand {
+.section {
     height: 1080px;
+}
+
+.section-blue {
     background-color: #66cddf;
 }
 
@@ -200,10 +203,6 @@ nav {
     height: 340px;
 }
 
-#yosemite {
-    height: 1080px;
-}
-
 #yosemite img {
     margin-right: 100px;
 }
@@ -244,10 +243,6 @@ nav {
     color: white;
 }
 
-#legend {
-    height: 1080px;
-    background-color: #66cddf;
-}
 
 #legend h2 {
     font-family: Raleway, Arial, "Times New Roman";
@@ -278,10 +273,6 @@ nav {
 #legend img {
     width: 510px;
     height: 340px;
-}
-
-#paper {
-    height: 1080px;
 }
 
 #paper img {
