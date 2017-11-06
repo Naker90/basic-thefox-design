@@ -23,6 +23,22 @@ nav {
     padding-top: 350px;
 }
 
+.section {
+    height: 1080px;
+}
+
+.section-blue {
+    background-color: #66cddf;
+}
+
+.section-title {
+    font-family: Raleway, Arial, "Times New Roman";
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 100px;
+    margin: 0;
+}
+
 .menu {
     list-style-type: none;
     display: inline-block;
@@ -154,21 +170,8 @@ nav {
     line-height: 40px;
 }
 
-.section {
-    height: 1080px;
-}
-
-.section-blue {
-    background-color: #66cddf;
-}
-
 #brand h2 {
-    font-family: Raleway, Arial, "Times New Roman";
     color:  #ffffff;
-    font-size: 72px;
-    font-weight: 700;
-    line-height: 100px;
-    margin: 0;
 }
 
 #brand h3 {
@@ -208,11 +211,6 @@ nav {
 }
 
 #yosemite h2 {
-    font-family: Raleway, Arial, "Times New Roman";
-    font-size: 72px;
-    font-weight: 700;
-    line-height: 100px;
-    margin: 0;
     margin-right: 200px;
 }
 
@@ -245,12 +243,7 @@ nav {
 
 
 #legend h2 {
-    font-family: Raleway, Arial, "Times New Roman";
     color:  #ffffff;
-    font-size: 72px;
-    font-weight: 700;
-    line-height: 100px;
-    margin: 0;
 }
 
 #legend h3 {
@@ -280,11 +273,6 @@ nav {
 }
 
 #paper h2 {
-    font-family: Raleway, Arial, "Times New Roman";
-    font-size: 72px;
-    font-weight: 700;
-    line-height: 100px;
-    margin: 0;
     margin-right: 200px;
 }
 
