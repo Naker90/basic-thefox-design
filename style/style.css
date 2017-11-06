@@ -54,41 +54,38 @@ header {
     line-height: 19px;
     color: white;
     margin-top: 0;
-    font-weight: 400;
+
     margin-top: 10px;
 }
 
-#btn-purchase {
+.btn {
     font-family: Raleway;
-    color:  #222533;
     font-size: 14px;
     padding: 18.5px 47px;
     font-weight: 700;
-    border: 1px solid white;
-    background-color: white;
     text-decoration: none;
     display: inline-block;
+}
+
+.btn-purchase {
+    color:  #222533;
+    border: 1px solid white;
+    background-color: white;
     margin-top: 20px;
 }
 
-#btn-purchase:visited {
-    color: black;
+.btn-purchase:visited {
+    color: #222533;
 }
 
-#btn-freatures {
-    font-family: Raleway;
-    font-size: 14px;
-    padding: 18.5px 47px;
+.btn-freatures {
     color: white;
-    font-weight: 700;
     background-color: transparent;
     border: 1px solid white;
     margin-left: 15px;
-    text-decoration: none;
-    display: inline-block;
 }
 
-#btn-freatures:visited {
+.btn-freatures:visited {
     color: white;
 }
 
@@ -111,7 +108,6 @@ header {
     text-align: center;
     color: #29d9c2;
     line-height: 19px;
-    font-weight: 400;
     margin: 0;
 }
 
@@ -121,7 +117,6 @@ header {
     text-align: center;
     margin: 50px auto;
     color: #a1b1bc;
-    font-weight: 400;
     line-height: 40px;
 }
 
@@ -143,7 +138,6 @@ header {
 #brand h3 {
     color:  #ffffff;
     font-size: 24px;
-    font-weight: 400;
     line-height: 19px;
     margin: 0;
     font-weight: normal;
@@ -153,26 +147,18 @@ header {
     font-family: Lato;
     color:  #ffffff;
     font-size: 14px;
-    font-weight: 400;
     line-height: 24px;
     width: 465px;
     margin-top: 50px;
 }
 
-#btn-download {
-    font-family: Raleway;
-    font-size: 14px;
-    font-weight: 700;
-    padding: 18.5px 47px;
+.btn-download {
     color:  #ffffff;
-    font-weight: bold;
     background-color: #2f2933;
     border:1px solid #2f2933;
-    text-decoration: none;
-    display: inline-block;
 }
 
-#btn-download:visited {
+.btn-download:visited {
     color: white;
 }
 
@@ -202,7 +188,6 @@ header {
 #yosemite h3 {
     color: #a1b1bc;
     font-size: 24px;
-    font-weight: 400;
     line-height: 19px;
     margin: 0;
 }
@@ -211,25 +196,19 @@ header {
     width: 460px;
     font-family: Lato;
     font-size: 14px;
-    font-weight: 400;
+
     line-height: 24px;
     color: #a1b1bc;
     margin-top: 50px;
 }
 
-#btn-download2 {
-    font-family: Raleway;
-    font-size: 14px;
-    font-weight: 700;
-    padding: 18.5px 47px;
+.btn-download2 {
     color: white;
     background-color: #29d9c2;
     border:1px solid #29d9c2;
-    text-decoration: none;
-    display: inline-block;
 }
 
-#btn-download2:visited {
+.btn-download2:visited {
     color: white;
 }
 
