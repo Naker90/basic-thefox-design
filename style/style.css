@@ -12,6 +12,8 @@ nav {
     left: 0;
     right: 0;
     background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .wrapper {
