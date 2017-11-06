@@ -23,24 +23,24 @@ header {
     color: #04bfbf;
 }
 
-.section1 {
+#creative {
     height: 979px;
     background: url("../images/prueba.png");
     background-size: cover;
 }
 
-.section1 h1 {
+#creative h1 {
     color: white;
     font-size: 5em;
     margin: 0;
     padding-top: 300px;
 }
 
-.section1 span {
+#creative span {
     color: #56c0d3
 }
 
-.section1 p {
+#creative p {
     font-size: 2em;
     color: white;
     margin-top: 0;
@@ -62,18 +62,18 @@ header {
     margin-left: 15px;
 }
 
-.section2 {
+#introducing {
     height: 502px;
 }
 
-.section2 h2 {
+#introducing h2 {
     font-size: 2em;
     padding-top: 150px;
     text-align: center;
     margin: 0;
 }
 
-.section2 h3 {
+#introducing h3 {
     font-size: 1.5em;
     text-align: center;
     color: #29d9c2;
@@ -81,7 +81,7 @@ header {
     font-weight: normal;
 }
 
-.section2 p {
+#introducing p {
     width: 1117px;
     font-size: 1.5em;
     text-align: center;
@@ -89,26 +89,26 @@ header {
     color: #a1b1bc;
 }
 
-.section3 {
+#brand {
     height: 1080px;
     background-color: #66cddf;
 }
 
-.section3 h2 {
+#brand h2 {
     color: white;
     font-size: 4em;
     margin: 0;
     padding-top: 350px;
 }
 
-.section3 h3 {
+#brand h3 {
     color: white;
     font-size: 1.5em;
     margin: 0;
     font-weight: normal;
 }
 
-.section3 p {
+#brand p {
     color: white;
     width: 465px;
     margin-top: 50px;
@@ -124,34 +124,34 @@ header {
     margin-top: 10px;
 }
 
-.section3 img {
+#brand img {
     width: 510px;
     height: 340px;
     margin-left: 100px;
 }
 
-.section4 {
+#yosemite {
     height: 1080px;
 }
 
-.section4 img {
+#yosemite img {
     margin-top: 350px;
     margin-right: 100px;
 }
 
-.section4 h2 {
+#yosemite h2 {
     font-size: 4em;
     margin: 0;
 }
 
-.section4 h3 {
+#yosemite h3 {
     color: #a1b1bc;
     font-size: 1.5em;
     margin: 0;
     font-weight: normal;
 }
 
-.section4 p {
+#yosemite p {
     width: 460px;
     color: #a1b1bc;
     margin-top: 50px;
@@ -166,21 +166,21 @@ header {
     border-color: #29d9c2;
 }
 
-.section5 {
+#legend {
     height: 1080px;
     background-color: #66cddf;
 }
 
-.section6 {
+#paper {
     height: 1080px;
 }
 
-.section7 {
+#love-fox {
     height: 978px;
     background-color: #d3d2d0;
 }
 
-.section8 {
+#the-fox {
     height: 960px;
     background-color: #222533;
 }
